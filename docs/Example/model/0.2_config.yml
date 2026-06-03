@@ -15,43 +15,31 @@ sb_trainable: true
 sp_trainable: true
 state_id: 2
 symbolic.funs_name.0:
-- - sin
-  - x
-  - x
-  - sin
-  - x
-  - sin
-  - x
-  - x
-  - x
-  - x
-  - x
-  - x
-  - x
-  - x
-  - x
-  - x
-  - x
+- - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
+  - '0'
 symbolic.funs_name.1:
-- - x
-- - x
-- - x
-- - x
-- - x
-- - x
-- - x
-- - x
-- - x
-- - x
-- - x
-- - x
-- - x
-- - x
+- - gaussian
 symbolic_enabled: true
 width:
-- - 17
+- - 18
   - 0
 - - 1
   - 0
-- - 14
+- - 1
   - 0
